@@ -13,7 +13,6 @@
 
 
 ## Citation
----
 ```bibtex
 @article{lee2023survey,
   title={A Survey on Evaluation Metrics for Machine Translation},
