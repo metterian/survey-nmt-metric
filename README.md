@@ -8,6 +8,10 @@
 - Paper: [Link](https://www.mdpi.com/2227-7390/11/4/1006)
 - PPT: [Link](./ppt.pdf)
 
+## Taxonomy of NMT Metric
+![Table of NMT Metric](./metrics_tree.png)
+
+
 ## Citation
 ---
 ```bibtex
