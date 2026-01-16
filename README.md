@@ -1,9 +1,20 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MDPI%20Mathematics-2023-2D5F8A?style=for-the-badge" alt="MDPI Mathematics 2023">
-  <img src="https://img.shields.io/badge/Citations-133+-yellow?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Citations">
 </p>
 
 <h1 align="center">A Survey on Evaluation Metrics for Machine Translation</h1>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://scholar.google.com/citations?view_op=view_citation&citation_for_view=ajKxvvoAAAAJ:WF5omc3nYNoC">
+        <img src="https://img.shields.io/badge/Google%20Scholar-133%2B%20Citations-FBBC04?style=for-the-badge&logo=google-scholar&logoColor=white" alt="133+ Citations">
+      </a>
+      <br>
+      <sub><b>Highly Cited Paper</b></sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <b>Seungjun Lee</b>, <b>Jungseob Lee</b>, <b>Hyeonseok Moon</b>, <b>Chanjun Park</b>,<br>
