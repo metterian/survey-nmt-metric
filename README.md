@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://awesome.re/badge.svg" alt="Awesome">
+  <img src="https://img.shields.io/badge/MDPI%20Mathematics-2023-2D5F8A?style=flat-square" alt="MDPI Mathematics 2023">
   <img src="https://img.shields.io/github/stars/metterian/survey-nmt-metric?style=flat-square" alt="Stars">
   <img src="https://img.shields.io/github/forks/metterian/survey-nmt-metric?style=flat-square" alt="Forks">
   <img src="https://img.shields.io/github/license/metterian/survey-nmt-metric?style=flat-square" alt="License">
@@ -23,6 +24,15 @@
   <a href="https://www.mdpi.com/2227-7390/11/4/1006"><img src="https://img.shields.io/badge/Paper-PDF-green?style=flat-square" alt="Paper"></a>
   <a href="https://youtu.be/9yvgzqPtKA4"><img src="https://img.shields.io/badge/Video-YouTube-red?style=flat-square&logo=youtube" alt="Video"></a>
   <a href="./ppt.pdf"><img src="https://img.shields.io/badge/Slides-PPT-orange?style=flat-square" alt="PPT"></a>
+  <a href="https://scholar.google.com/citations?view_op=view_citation&citation_for_view=ajKxvvoAAAAJ:WF5omc3nYNoC"><img src="https://img.shields.io/badge/Google%20Scholar-Citations-blue?style=flat-square&logo=google-scholar" alt="Google Scholar"></a>
+</p>
+
+---
+
+## Taxonomy
+
+<p align="center">
+  <img src="./metrics_tree.png" alt="Taxonomy of MT Evaluation Metrics" width="900">
 </p>
 
 ---
